@@ -1,0 +1,4 @@
+calculated_indexes
+local_example_config.py
+*.pdf
+__pycache__
